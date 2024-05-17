@@ -1,6 +1,6 @@
 # Python Extract Websites: README
 
-<img src="https://github.com/kingtroga/extract-expo-companies/blob/main/reviews.png" alt="4.5 Star Review" style="width: 50%; height: auto;">
+<img src="https://github.com/kingtroga/extract-expo-companies/blob/main/reviews.png" alt="4.5 Star Review" style="width: 80%; height: auto;">
 
 ## Project Description
 
