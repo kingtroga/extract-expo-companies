@@ -1,5 +1,7 @@
 # Python Extract Websites: README
 
+<img src="https://github.com/kingtroga/extract-expo-companies/blob/main/reviews.png" alt="4.5 Star Review" style="width: 50%; height: auto;">
+
 ## Project Description
 
 Using Python scripts, I meticulously scraped 19 Expo websites, unearthing 26,453 company names. Crafting a tailored Google search, I navigated through quotas, uncovering elusive company websites. My async Python script then delved deeper, capturing essential details: Source, Company Name, Website, Contact Name(s), Contact Email(s), Contact Phone Number(s), and Social Media Accounts.
